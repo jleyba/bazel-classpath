@@ -22,8 +22,8 @@ JUnit4 Test Runner
 Time: 0.068
 There was 1 failure:
 1) test(example.ExampleTest)
-java.lang.NoSuchMethodError: com.google.common.base.Preconditions.checkArgument(ZLjava/lang/String;Ljava/lang/Object;)V
-  at example.Dep.go(Dep.java:7)
+java.lang.NoSuchMethodError: com.google.common.base.Preconditions.checkArgument(ZLjava/lang/String;I)V
+  at example.Dep.go(Dep.java:8)
   at example.ExampleTest.test(ExampleTest.java:16)
   at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
