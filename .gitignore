@@ -1,0 +1,5 @@
+bazel-bazel-classpath
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
